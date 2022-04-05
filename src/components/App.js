@@ -45,7 +45,7 @@ const App = () => {
         {currentYear ? (
           <p>Selected year-{currentYear}</p>
         ) : (
-          <p>No year Selected</p>
+          <p>No year selected</p>
         )}
       </div>
       <ul>
